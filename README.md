@@ -1,0 +1,2 @@
+# sequelizeIntro
+Introduction to sequelize
